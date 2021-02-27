@@ -18,17 +18,17 @@
 
 Quick intstructions for building SRU-HMM System:
 
-1) Move to Kaldi timit directory, e.g.,
+(1) Move to Kaldi timit directory, e.g.,
 
-cd kaldi-trunk/egs/timit/s5
+`cd kaldi-trunk/egs/timit/s5`
 
-2) Copy all source code files (.sh, .py) and directories into current directory
+(2) Copy all source code files (.sh, .py) and directories into current directory
 
-3) Specify TIMIT data directory in run_simple.sh e.g.,
+(3) Specify TIMIT data directory in run_simple.sh e.g.,
 
-timit=<your TIMIT directory>
+ `timit=<your TIMIT directory>`
 
-4) Execute run_simple.sh
+(4) Execute run_simple.sh
 
-5) Execute run_sru.sh
+(5) Execute run_sru.sh
 
