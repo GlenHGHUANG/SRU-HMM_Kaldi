@@ -8,11 +8,11 @@
 * TIMIT data
 ## Major Scripts 
 
-`steps_sru/lib`: package for the implementations of the operations/NNs 
-`steps_sru/dataGenSequences*.py`:  data iteraters
-`steps_our/train*.py`: implementations of the SRU-HMM
-`steps_our/decode*.sh`:  decoder
-`steps_our/nnet-forward*.py`:  HMM state posterior probability estimator
+*`steps_sru/lib`: package for the implementations of the operations/NNs 
+*`steps_sru/dataGenSequences*.py`:  data iteraters
+*`steps_our/train*.py`: implementations of the SRU-HMM
+*`steps_our/decode*.sh`:  decoder
+*`steps_our/nnet-forward*.py`:  HMM state posterior probability estimator
 
 ## Usage
 
